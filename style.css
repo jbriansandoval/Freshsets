@@ -3,18 +3,18 @@ body{
   color: black;
   font-family: 'Abril Fatface', cursive;
   display: flex;
+  margin: 0;
 }
 .jumbotron {
-  margin-top: 5%;
+  margin: 5% 0 5%;
   background-color: pink;
   text-align: center;
-  min-height: 500px;
   min-width: 100%;
-  
+  padding: 15% 0 15%;
 }
 
 h1 {
   display: flex;
-  font-size: 3rem;
+  font-size: 4rem;
   justify-content: center;
 }
